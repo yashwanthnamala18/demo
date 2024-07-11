@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>e2e-1201-composites</groupId>
   <artifactId>ProcessOrder</artifactId>
-  <version>1.0-TESTSNAPSHOT</version>
+  <version>1.TESTSNAPSHOT.0</version>
   <packaging>sar</packaging>
   <parent>
     <groupId>com.oracle.soa</groupId>
