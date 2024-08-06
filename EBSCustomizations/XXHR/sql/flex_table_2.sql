@@ -1,4 +1,4 @@
-create table flex_table_5 (
+create table flex_table_6 (
  ID int,
  NAME varchar(255)
 );
