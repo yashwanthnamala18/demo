@@ -1,4 +1,3 @@
-create table flex_table_12 (
- ID int,
- NAME varchar(255)
-);
+CREATE TABLE test_table (
+    column1 VARCHAR2(30)
+) TABLESPACE datatablespc;
