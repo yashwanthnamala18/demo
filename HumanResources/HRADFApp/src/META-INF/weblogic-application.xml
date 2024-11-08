@@ -11,5 +11,8 @@
   <library-ref>
     <library-name>adf.oracle.domain</library-name>
   </library-ref>
+    <library-ref>
+    <library-name>log4j</library-name>
+  </library-ref>
   <!--comment-->
 </weblogic-application>
