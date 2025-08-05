@@ -3,7 +3,7 @@
 LANGUAGE = "US"
 LDRCONFIG = "afcpprog.lct 120.2.12010000.2"
 
-#Source Database orcl
+#Source Database orcle
 
 #RELEASE_NAME 12.1.3
 
