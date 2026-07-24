@@ -228,7 +228,7 @@ FROM dual
 <dataTrigger name="beforeReportTrigger" source="xxhid_wsh_shipping_util.REPORT_WAIT(fnd_global.conc_request_id)"/>
 <dataStructure>
 <group name="WG_1_TOP" source="Q_1_TOP">
-            <element name="MAIN_DELIVERY_NUMBER" value="MAIN_DELIVERY_NUMBER" />
+            <element name="MAIN_DELIVERY_NUMBERS" value="MAIN_DELIVERY_NUMBER" />
 			<element name="CONC_REQUEST_ID" value="CONC_REQUEST_ID" />
 			<element name="ORGN_ID" value="ORGN_ID" />
 <group name="WG_1" source="Q_1">
