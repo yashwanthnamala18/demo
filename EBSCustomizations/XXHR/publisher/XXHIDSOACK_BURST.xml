@@ -3,7 +3,7 @@
 <xapi:request select="/XXHIDISOA/G_MAIN">
  <xapi:delivery>
  <xapi:email server="localhost" port="25" from="ebsprod@hidglobal.com">
-  <xapi:message id="1" to="${SO_MAIL1}" cc="${SO_MAIL2}" bcc="" attachment="true" subject="Internal Sales Order ACK ORDER# (${SO_ORDER_NUMBER})"> 
+  <xapi:message id="1" to="${SO_MAIL1}" cc="${SO_MAIL2}" bcc="" attachment="true" subject="Internal Sales Order Order ACK ORDER# (${SO_ORDER_NUMBER})"> 
   </xapi:message>
   </xapi:email>
   </xapi:delivery>
